@@ -12,7 +12,7 @@ function pattern(n) {
     }
 }
 
-pattern(5);
+pattern(1);
 
 
 
